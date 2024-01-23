@@ -1,10 +1,14 @@
-<h3>I'm Farangiz, a 21 years old</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-### Contact me: <a href="farangizismatova24@gmail.com">farangizismatova24@gmail.com</a>
+<h3 align="center" > Contact me: <a href="farangizismatova24@gmail.com">farangizismatova24@gmail.com</a></h3>
 
-<a href="https://www.instagram.com/miracle__171/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<div align="center" >
+ <a href="https://www.instagram.com/miracle__171/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/Ismatova_Farangiz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 <a href="https://www.linkedin.com/in/farangiz-ismatova/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
+</div>
 
 
 <h4 >Things I use on a daily basis</h4>
